@@ -1,0 +1,31 @@
+<div class="modal-view-product">
+   
+    <div class="overlay"> </div>
+
+    <div class="modal-view-product-container flex">
+       
+        <div class="modal-product-view-image flex-1">
+            <img src="{{product?.imgUrl}}" 
+             alt="">
+
+        </div>
+
+        <div class="modal-product-view-details flex-1 flex aic jcc column">
+        
+            <h2>{{product?.name}}</h2>
+        
+        <div class="modal-product-view-details-price">
+            <h4> {{product?.sold_price}} €</h4>
+            <del>
+                <h4> {{product?.price}} €</h4>
+            </del>
+        </div>
+        
+        <div class="modal-product-view-details-created-at">  {{product?.createdAt}} </div>
+        <button type="button" class="btn btn-dark" (click)="unDisplayModalView()">Fermer</button>
+    </div>
+    
+
+</div>
+</div>
+

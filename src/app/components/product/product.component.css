@@ -1,0 +1,7 @@
+.product-list{
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    box-shadow: -1px -1px 15px 5px rgba(30, 29, 29, 0.61);
+}

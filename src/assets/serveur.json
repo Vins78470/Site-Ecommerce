@@ -1,0 +1,147 @@
+[
+    {
+      "_id": 1,
+      "name": "Robe de soirée élégante",
+      "description": "Robe longue idéale pour les soirées formelles",
+      "category": ["Robes", "Femme", "Soirée"],
+      "price": 149.99,
+      "sold_price": 129.99,
+      "regular_price": 180,
+      "imgUrl": "/assets/images/products/robe.webp",
+      "createdAt": "2023-01-01T00:00:00.000Z",
+      "updatedAt": "2023-01-02T00:00:00.000Z"
+    },
+    {
+      "_id": 2,
+      "name": "Robe d'été légère",
+      "description": "Robe courte parfaite pour l'été",
+      "category": ["Robes", "Femme", "Été"],
+      "price": 79.99,
+      "sold_price": 69.99,
+      "regular_price": 90,
+      "imgUrl": "/assets/images/products/ete.webp",
+      "createdAt": "2023-02-01T00:00:00.000Z",
+      "updatedAt": "2023-02-02T00:00:00.000Z"
+    },
+    {
+      "_id": 3,
+      "name": "Chemise en lin décontractée",
+      "description": "Chemise légère en lin pour un look estival chic",
+      "category": ["Chemises", "Homme", "Été"],
+      "price": 49.99,
+      "sold_price": 39.99,
+      "regular_price": 60,
+      "imgUrl": "/assets/images/products/ete.webp",
+      "createdAt": "2023-03-01T00:00:00.000Z",
+      "updatedAt": "2023-03-02T00:00:00.000Z"
+    },
+    {
+      "_id": 4,
+      "name": "Pantalon de costume élégant",
+      "description": "Pantalon ajusté parfait pour les occasions formelles",
+      "category": ["Pantalons", "Homme", "Formel"],
+      "price": 99.99,
+      "sold_price": 89.99,
+      "regular_price": 120,
+      "imgUrl": "/assets/images/products/robe.webp",
+      "createdAt": "2023-04-01T00:00:00.000Z",
+      "updatedAt": "2023-04-02T00:00:00.000Z"
+    },
+    {
+      "_id": 5,
+      "name": "Veste en cuir classique",
+      "description": "Veste en cuir noir, intemporelle et polyvalente",
+      "category": ["Vestes", "Unisexe", "Hiver"],
+      "price": 199.99,
+      "sold_price": 179.99,
+      "regular_price": 220,
+      "imgUrl": "/assets/images/products/robe.webp",
+      "createdAt": "2023-05-01T00:00:00.000Z",
+      "updatedAt": "2023-05-02T00:00:00.000Z"
+    },
+    {
+      "_id": 6,
+      "name": "Sneakers tendance",
+      "description": "Chaussures de sport à la mode, confortables pour le quotidien",
+      "category": ["Chaussures", "Unisexe", "Sport"],
+      "price": 89.99,
+      "sold_price": 79.99,
+      "regular_price": 100,
+      "imgUrl": "/assets/images/products/robe.webp",
+      "createdAt": "2023-06-01T00:00:00.000Z",
+      "updatedAt": "2023-06-02T00:00:00.000Z"
+    },
+    {
+      "_id": 7,
+      "name": "Sac à main en cuir",
+      "description": "Sac à main élégant en cuir pour un look sophistiqué",
+      "category": ["Sacs", "Femme", "Accessoires"],
+      "price": 129.99,
+      "sold_price": 119.99,
+      "regular_price": 150,
+      "imgUrl": "/assets/images/products/robe.webp",
+      "createdAt": "2023-07-01T00:00:00.000Z",
+      "updatedAt": "2023-07-02T00:00:00.000Z"
+    },
+    {
+      "_id": 8,
+      "name": "Montre analogique classique",
+      "description": "Montre élégante avec bracelet en cuir, design intemporel",
+      "category": ["Montres", "Unisexe", "Accessoires"],
+      "price": 149.99,
+      "sold_price": 139.99,
+      "regular_price": 160,
+      "imgUrl": "/assets/images/products/robe.webp",
+      "createdAt": "2023-08-01T00:00:00.000Z",
+      "updatedAt": "2023-08-02T00:00:00.000Z"
+    },
+    {
+      "_id": 9,
+      "name": "Robe de cocktail chic",
+      "description": "Robe courte élégante, idéale pour les soirées et événements spéciaux",
+      "category": ["Robes", "Femme", "Cocktail"],
+      "price": 119.99,
+      "sold_price": 109.99,
+      "regular_price": 140,
+      "imgUrl": "/assets/images/products/robe.webp",
+      "createdAt": "2023-09-01T00:00:00.000Z",
+      "updatedAt": "2023-09-02T00:00:00.000Z"
+    },
+    {
+      "_id": 10,
+      "name": "Jeans slim fit",
+      "description": "Jeans ajusté, parfait pour un look décontracté mais soigné",
+      "category": ["Jeans", "Homme", "Casual"],
+      "price": 59.99,
+      "sold_price": 49.99,
+      "regular_price": 70,
+      "imgUrl": "/assets/images/products/robe.webp",
+      "createdAt": "2023-10-01T00:00:00.000Z",
+      "updatedAt": "2023-10-02T00:00:00.000Z"
+    },
+    {
+      "_id": 11,
+      "name": "Lunettes de soleil aviateur",
+      "description": "Lunettes de soleil avec monture métallique, design classique aviateur",
+      "category": ["Lunettes de soleil", "Unisexe", "Accessoires"],
+      "price": 79.99,
+      "sold_price": 69.99,
+      "regular_price": 90,
+      "imgUrl": "/assets/images/products/robe.webp",
+      "createdAt": "2023-11-01T00:00:00.000Z",
+      "updatedAt": "2023-11-02T00:00:00.000Z"
+    },
+    {
+      "_id": 12,
+      "name": "Sweat à capuche confortable",
+      "description": "Sweat à capuche en coton, parfait pour les journées décontractées",
+      "category": ["Sweats", "Unisexe", "Casual"],
+      "price": 49.99,
+      "sold_price": 39.99,
+      "regular_price": 60,
+      "imgUrl": "/assets/images/products/robe.webp",
+      "createdAt": "2023-12-01T00:00:00.000Z",
+      "updatedAt": "2023-12-02T00:00:00.000Z"
+    }
+  ]
+  

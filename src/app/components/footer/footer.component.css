@@ -1,0 +1,22 @@
+footer{
+    font-size: 2rem;
+  
+}
+
+.footer-content{
+    height: calc(100vh - 70vh - 80px);
+    background-color: #272424;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+   
+
+}
+
+.footer-bottom{
+    
+    background-color: #8ecccc;
+    height:300px
+
+}

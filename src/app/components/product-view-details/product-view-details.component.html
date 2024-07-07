@@ -1,0 +1,33 @@
+
+
+<div class="product-view-all-details-contenair">
+
+    <div class="product-view">
+        
+        <div class="product-image" width="300px" height="300px">
+            <img src="{{product?.imgUrl}}">
+        </div>
+        
+        <div class="product-details"> 
+            <div class="product-title">
+            {{product?.name}}
+            </div>
+
+        
+            <div class="product-description">
+            {{product?.description}}
+            </div>
+     
+            <div class="product-prices">
+            <del> {{product?.sold_price}}&#x20AC;</del>
+                 {{product?.price}}&#x20AC;
+            </div>
+
+            <button type="button" class="btn btn-dark">Add to Basket </button>
+         </div>
+        
+      
+    </div>
+    
+
+</div>

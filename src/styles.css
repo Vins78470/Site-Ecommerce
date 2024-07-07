@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+}
+
+.flex{
+    display: flex;
+}
+
+.flex-1{
+    display: 1;
+}
+
+.flex-2{
+    display: 1;
+}
+
+.aic{
+    align-items: center;
+}
+
+.jcc{
+    justify-content: center;
+}
+
+.column{
+    flex-direction: column;
+}
+
+.btn{
+    height:40px;
+    outline: none;
+    min-width: 100px;
+}
